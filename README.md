@@ -19,7 +19,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 DAY-1] 11|05|2026
+
 -revision- revised a number of concepts of arrays and searches from codehelp by babbar.
+
 -Leetcode-
 i)Find Peak Element:The numbers in the array increased from start upto a certain number and later decreased.To find the highest number using a solution of time complexity O(nlogn). --> Solved it by using binary search but instead of a key , for a element which is greater than its left and right side value.
 ii)Find Pivot Index : To find the index of array at which the sum of the left side elements is equal to sum of right side elements.-->Solved it by creating 2 different array one carying sum of right side elements till particular index and vice versa.Total time complexity O(n).
