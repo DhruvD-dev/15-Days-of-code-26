@@ -32,3 +32,11 @@ problem: https://leetcode.com/problems/find-pivot-index/description/
 -CodeChef-
 Attended the Monday DSA challenge and successfully completed the first four questions and got score of 400
 Problems: https://www.codechef.com/DSAMONDAY002
+
+
+DAY-2] 12|05|2026
+
+-LeetCode-
+i)Sqrt(x):To find the sqrt of the given integer to just smaller or equal integer without using any built in function. I solved it by using binary search.
+problem: https://leetcode.com/problems/sqrtx/description/
+
