@@ -39,4 +39,9 @@ DAY-2] 12|05|2026
 -LeetCode-
 i)Sqrt(x):To find the sqrt of the given integer to just smaller or equal integer without using any built in function. I solved it by using binary search.
 problem: https://leetcode.com/problems/sqrtx/description/
+ii)Search in rotated sorted array:An array was rotated and to find the target element by a solution of complexity O(log n).It took me 2.5 hrs to solve as the tough part was to find the pivot.
+iii)Color sort: Partially question solved.
 
+problem: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+-Learning- Sorting techniques- selection , insertion,bubble
