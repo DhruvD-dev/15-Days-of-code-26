@@ -18,6 +18,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 4. Keep pushing your changes every day! 
 
 
+
+
 DAY-1] 11|05|2026
 
 -revision- revised a number of concepts of arrays and searches from codehelp by babbar.
@@ -34,6 +36,8 @@ Attended the Monday DSA challenge and successfully completed the first four ques
 Problems: https://www.codechef.com/DSAMONDAY002
 
 
+
+
 DAY-2] 12|05|2026
 
 -LeetCode-
@@ -46,6 +50,7 @@ problem: https://leetcode.com/problems/search-in-rotated-sorted-array/descriptio
 iii)Color sort: Partially question solved.
 
 -Learning- Sorting techniques- selection , insertion,bubble
+
 
 
 
@@ -70,3 +75,27 @@ iv)Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/description
 v)Gas Station: https://leetcode.com/problems/gas-station/description/ 
    To find the starting point among the different stations with their cost and fuel array.
    This question seemed easier on first try and i almost did it ,35/40 cases passed and TLE occured , and after realising constraints I got to learn that Brute force was not an option and then for thinking 2-3hr for same question . I came up with nothing . unsolved
+
+
+
+
+DAY-4] 14|05|2026
+
+-Leetcode-
+i)Reverse Integer: https://leetcode.com/problems/reverse-integer/description/
+It was to reverese an integer but with numbers going upto the INT_MAX size while maybe more than that , if reversal of number went bigger than that then to return 0 else the reveresed number.
+
+ii)Reverse String: https://leetcode.com/problems/reverse-string/description/
+Easy question just to reverse string .Completed in 2 min.
+
+iii)Reverse String II: https://leetcode.com/problems/reverse-string-ii/description/
+A better version of the previous problem with rotation only in particular intervals of k while leaving the next k elements untouched.
+
+iv)Remove Outermost Parentheses: https://leetcode.com/problems/remove-outermost-parentheses/description/
+It looked as in continuation to other problem of valid parenthesis where stack was used , while in this problem we were given the valid parenthesis and goal was to only take out the outer parenethesis of each of its constituents.
+
+v)Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/description/
+A medium difficulty question which took me a lot of time ,but it cleared a lot of concepts of string,Such as conversion of a vector into string and vice versa without a loop.
+
+-Learning- Learnt today a lot of concepts of strings and algorithms while along with that learnt basic algorithm of all containers in STL and all the algorithms of STL.
+Some of the questions todays solved were from striver's Playlist.
