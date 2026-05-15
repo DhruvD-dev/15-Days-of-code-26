@@ -97,5 +97,36 @@ It looked as in continuation to other problem of valid parenthesis where stack w
 v)Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/description/
 A medium difficulty question which took me a lot of time ,but it cleared a lot of concepts of string,Such as conversion of a vector into string and vice versa without a loop.
 
--Learning- Learnt today a lot of concepts of strings and algorithms while along with that learnt basic algorithm of all containers in STL and all the algorithms of STL.
+
+-Learning-
+ Learnt today a lot of concepts of strings and algorithms while along with that learnt basic algorithm of all containers in STL and all the algorithms of STL.
 Some of the questions todays solved were from striver's Playlist.
+
+
+
+
+DAY-5] 15|05|2026
+
+-Leetcode-
+i)Largest Odd Number In The String: https://leetcode.com/problems/largest-odd-number-in-string/description/
+An easy difficulty question of string.
+
+ii)Isomorphic string: https://leetcode.com/problems/isomorphic-strings/description/
+To check if one string can be isomorphed into other by some mappings.By the mapping word i got distracted and then completely focused on the way using unordered maps. But due to it , it took more of space and more of time.While it could have been done easily by vectors.
+
+iii)Rotate String: https://leetcode.com/problems/rotate-string/description/
+To check if the second string is rotated form of first string.   or
+To check is second string can be made into first string by any rotations.
+
+iv)Valid Anagram: https://leetcode.com/problems/valid-anagram/description/
+To check if the 2 strings are anagram or not.
+
+v)Sort Characters By Frequency:https://leetcode.com/problems/sort-characters-by-frequency/description/ 
+spent a lot of time in this question,Tried to go for approches using Hashing but sorting the hashed vector will only sort numbers and i will lose the letters tied with them.Instead , on searching many places , got to learn about lambda function in c++,But didnt use it as i want to solve by my own. Unsolved.
+
+vi)String to Integer(atoi): https://leetcode.com/problems/string-to-integer-atoi/description/
+A Medium difficulty question to convert a given string containing letters,numbers,+,-etc.
+Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taking sign of number and last for taking the number.
+
+-learning-
+ Lambda function in c++,which is used for customized sorting.
