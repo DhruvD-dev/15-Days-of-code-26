@@ -130,3 +130,24 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
 -learning-
  Lambda function in c++,which is used for customized sorting.
+
+
+
+ DAY-6] 16|05|2026
+
+ -Leetcode-
+ i)Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
+ An easy difficulty question.
+
+ ii)Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
+ An array to be kept same ,  just to move the zeroes at the end of it.
+
+ iii)Rotate Array: https://leetcode.com/problems/rotate-array/description/
+ To rotate the array by a given k value.
+
+ iv)Check if array is sorted and Rotated: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+
+ -Learning-
+ Learnt about Sieve to find prime numbers,short way to find GCD,Modullar arthimetics , fast exponentiation and  Euclid's Theorem .
+
+ I was not able to do good difficulty questions today ,as I am ill and focused more on rest.
