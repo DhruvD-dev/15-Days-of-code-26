@@ -151,3 +151,24 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
  Learnt about Sieve to find prime numbers,short way to find GCD,Modullar arthimetics , fast exponentiation and  Euclid's Theorem .
 
  I was not able to do good difficulty questions today ,as I am ill and focused more on rest.
+
+
+
+ DAY-7] 17|05|2026
+
+ -LeetCode-
+ i)ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/description/
+ A medium difficulty question ,It was a creative question and required manipulation of iterators.
+
+ ii)Count and Say: https://leetcode.com/problems/count-and-say/description/
+ A interesting and creative medium difficulty problem simply solved by recursion and loops.
+ I also posted the solution for this question which was my first post on Leetcode.
+
+ iii)Valid Parentheses: https://leetcode.com/problems/valid-parentheses/description/
+ An easy problem of combination of parentheses ,easily solved by properties of stack.
+
+ iv)Compare Version Numbers: https://leetcode.com/problems/compare-version-numbers/description/
+ A good difficulty question that took good time to take all cases into control.
+
+ v)Multiply String: https://leetcode.com/problems/multiply-strings/description/
+ My best ever question on strings , it led me too much time to come solve till where i have done,its not yet completed but tommorow it will be done. It was the hardest so far of strings .
