@@ -171,4 +171,18 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
  A good difficulty question that took good time to take all cases into control.
 
  v)Multiply String: https://leetcode.com/problems/multiply-strings/description/
- My best ever question on strings , it led me too much time to come solve till where i have done,its not yet completed but tommorow it will be done. It was the hardest so far of strings .
+ My best ever question on strings , it led me too much time to come solve till where i have done,its not yet completed but tommorow it will be done. It was the hardest so far of strings .Unsolved
+
+
+
+ Day-8] 18|05|2026
+
+ -leetcode-
+ i)Multiply String: https://leetcode.com/problems/multiply-strings/description/
+ This question todat itself took me nearly 3-4 hours of manipulation to let each test case pass.I may have started for a way which might not be the best solution but i had the feeling that it can be done this way so i kept going and on each error tried to manipulate but for each error there required a huge new block of code to be introduced.  Literally it was the question which took me the most amount of time to solve And it taught me much of bit manipulation. I could have used vector in this but I wanted to do it fairly with string without any other container (Except i have used int at 2 places to mark index as indexes were getting complicated equations so i just stored in int);
+ 
+ -CodeChef-
+ Attempted the monday dsa challenge and was able to complete only 3 questions , left 2 question as it was linked list which i am not very sure of how to do and left 1 more question as it was tough.
+
+ -Learning-
+ Learnt Merge sort,its applications and drawbacks,though it is not as much clear.
