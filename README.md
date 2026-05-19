@@ -20,7 +20,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 
-DAY-1] 11|05|2026
+### DAY-1] 11|05|2026
 
 -revision- revised a number of concepts of arrays and searches from codehelp by babbar.
 
@@ -38,7 +38,7 @@ Problems: https://www.codechef.com/DSAMONDAY002
 
 
 
-DAY-2] 12|05|2026
+### DAY-2] 12|05|2026
 
 -LeetCode-
 i)Sqrt(x):To find the sqrt of the given integer to just smaller or equal integer without using any built in function. I solved it by using binary search.
@@ -54,7 +54,7 @@ iii)Color sort: Partially question solved.
 
 
 
-DAY-3] 13|05|2026
+### DAY-3] 13|05|2026
 
 -Leetcode-
 i)sort colors: To sort a given array containing 0,1and 2 as elements without using any sort algorithm or sort function.
@@ -79,7 +79,7 @@ v)Gas Station: https://leetcode.com/problems/gas-station/description/
 
 
 
-DAY-4] 14|05|2026
+### DAY-4] 14|05|2026
 
 -Leetcode-
 i)Reverse Integer: https://leetcode.com/problems/reverse-integer/description/
@@ -105,7 +105,7 @@ Some of the questions todays solved were from striver's Playlist.
 
 
 
-DAY-5] 15|05|2026
+### DAY-5] 15|05|2026
 
 -Leetcode-
 i)Largest Odd Number In The String: https://leetcode.com/problems/largest-odd-number-in-string/description/
@@ -133,7 +133,7 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
 
 
- DAY-6] 16|05|2026
+ ### DAY-6] 16|05|2026
 
  -Leetcode-
  i)Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
@@ -154,7 +154,7 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
 
 
- DAY-7] 17|05|2026
+ ### DAY-7] 17|05|2026
 
  -LeetCode-
  i)ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/description/
@@ -175,7 +175,7 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
 
 
- Day-8] 18|05|2026
+ ### Day-8] 18|05|2026
 
  -leetcode-
  i)Multiply String: https://leetcode.com/problems/multiply-strings/description/
@@ -186,3 +186,15 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
  -Learning-
  Learnt Merge sort,its applications and drawbacks,though it is not as much clear.
+
+
+ ### DAY-9] 19|05|2026
+ -Learning- 
+ Got more comfortable with merge sort and studied more concepts of stack.
+ Learnt the advantages and structre of quick sort.
+ Learnt to change infix to postfix using stack.
+
+ -Leetcode-
+ Solved some maths quest problems which were easy .
+ i)Longest Valid Parenthesis : https://leetcode.com/problems/longest-valid-parentheses/description/
+ Gave too much time in solving this hard question , could not actually complete it but reached till a point where 173/235 cases pass. 
