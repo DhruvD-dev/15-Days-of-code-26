@@ -198,3 +198,20 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
  Solved some maths quest problems which were easy .
  i)Longest Valid Parenthesis : https://leetcode.com/problems/longest-valid-parentheses/description/
  Gave too much time in solving this hard question , could not actually complete it but reached till a point where 173/235 cases pass. 
+
+
+
+ ### DAY-10] 20|05|2026
+ 
+ -Leetcode-
+ i)Sort an array: https://leetcode.com/problems/sort-an-array/description/
+ Solved first merge sort question .
+
+ ii)Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/description/
+ Solved my first hard question successfully, using the idea to count water till max occurs , then reverse the 2 pointers from opposite side till the max occur and then to calculate the water between two maxes at extremes by a transversal.
+
+ iii)[Remove all adjacent duplicates in string :](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+ A  question on stack in which in a string if a pair of letter occured then to remove it 
+
+ -Learning-
+ Got a more clear way to do quick sort  , learnt approach of bactracking using recursion
