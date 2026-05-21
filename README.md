@@ -215,3 +215,26 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
  -Learning-
  Got a more clear way to do quick sort  , learnt approach of bactracking using recursion
+
+
+
+### DAY-11] 21|05|2026
+
+-Leetcode-
+i)Simplify Path: https://leetcode.com/problems/simplify-path/description/
+A question that was supposed to be solved by stack , I solved it by deque .
+It gave an address of a folder,our task was to simplify that path as per the customised rules mentioned. It was a good difficulty question.
+
+ii)Decode String:https://leetcode.com/problems/decode-string/description/
+Submission :https://leetcode.com/problems/decode-string/submissions/2009123780
+Actually I learnt now that we can put submission link as well , and so on from now I will be sharing the submission link as well.
+This question was a good stack question of decoding a string.
+With this question , my 50 questions have been completed.
+
+iii)Pow(x,n): https://leetcode.com/problems/powx-n/description/
+Submission: https://leetcode.com/problems/powx-n/submissions/2009286349
+A submission wasting question , i need to build so many if else ,which i came to know about when my submission failed.This question wasted so many submissions.
+
+-Learning-:
+Got more comfortable with queue.
+I was not able to learn or practice more today but I will compensate this on other days .
