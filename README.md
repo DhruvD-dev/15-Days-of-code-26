@@ -238,3 +238,27 @@ A submission wasting question , i need to build so many if else ,which i came to
 -Learning-:
 Got more comfortable with queue.
 I was not able to learn or practice more today but I will compensate this on other days .
+
+
+
+### DAY-12] 22|05|2026
+
+-Leetcode-
+i)Implement Queue using stacks: https://leetcode.com/problems/implement-queue-using-stacks/description/
+Submission: https://leetcode.com/problems/implement-queue-using-stacks/submissions/2009986983
+The question itself is clear from its name , I created 2 stacks which used to transfer items into one another for pop and push. Today I focused more on developing Queue/Deque and so I am trying questions related to it .
+
+ii)Implement Stack using Queue:https://leetcode.com/problems/implement-stack-using-queues/description/
+Submission: https://leetcode.com/problems/implement-stack-using-queues/submissions/2009994898
+Near to same question as above but with different approach and working.
+
+iii)Permutation Sequence: https://leetcode.com/problems/permutation-sequence/description/
+Submission:https://leetcode.com/problems/permutation-sequence/submissions/2010150935
+A hard difficulty question in which it was asked to find permutation of the given number string , the easier part of it contains an vector. I solved it by simple looping methods and got a good space complexity but a bad time complexity . While another possible method i can think of is using backtracking as it was a string another permutation could easily been done by recursion.
+
+iv)[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+Submission: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2010166841
+An easy difficulty question , but use of different function of string that is substr which helps to create a substring.
+
+-Learning- 
+Done with 45 videos of CodeHelp, i.e. Till recursion , stack and queue , Later will begin with linked lists and then to Trees.
