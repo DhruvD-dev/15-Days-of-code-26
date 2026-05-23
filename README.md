@@ -262,3 +262,11 @@ An easy difficulty question , but use of different function of string that is su
 
 -Learning- 
 Done with 45 videos of CodeHelp, i.e. Till recursion , stack and queue , Later will begin with linked lists and then to Trees.
+
+
+
+### Leave ----->
+
+Today I was not able to do much as I was busy regarding many things and was not able to contribute to the 15 days repository plan .I will surely compensate for next to 15 days.
+
+
