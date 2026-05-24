@@ -270,3 +270,30 @@ Done with 45 videos of CodeHelp, i.e. Till recursion , stack and queue , Later w
 Today I was not able to do much as I was busy regarding many things and was not able to contribute to the 15 days repository plan .I will surely compensate for next to 15 days.
 
 
+
+### DAY-13] 24|05|2026
+
+-Leetcode-
+i)[Remove Nth Node from the end of the list ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+Submission: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2011523744
+My first question on the topic Linked list .It was a medium difficulty question but seemed easy after studing from codehelp.
+
+ii)[Rotate List](https://leetcode.com/problems/rotate-list/description/)
+Submission: https://leetcode.com/problems/rotate-list/submissions/2011548251
+Another medium difficulty question on the linked list topic.
+
+iii)[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+Submission: https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2011668879
+A hard difficulty question which cleared a lot of concepts of linked lists and now I am getting confident with linked lists.This questionw was about to rotate the linked list at every k group of elements.
+
+iv)[Design circular queue](https://leetcode.com/problems/design-circular-queue/description/)
+Submission: https://leetcode.com/problems/design-circular-queue/submissions/2011729881
+It asks to create and develop the class of a circular queue , having many functions. I solved it by Linked Lists method , making it circular. Posting the picture of only some functions as it is long code and not come in single picture.
+
+v)[Partition List](https://leetcode.com/problems/partition-list/description/)
+Submission: https://leetcode.com/problems/partition-list/submissions/2011768936
+Another medium difficulty linked list question that required to make an partition.
+
+-learning- Got linked lists done today , learned lot of concepts .
+
+
