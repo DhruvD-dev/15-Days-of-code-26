@@ -297,3 +297,16 @@ Another medium difficulty linked list question that required to make an partitio
 -learning- Got linked lists done today , learned lot of concepts .
 
 
+
+### DAY-14] 25|05|2026
+
+-LeetCode-
+Attempted only a few question of quest which were not so tough but good for revision of topics.
+
+-CodeChef-
+Attempted the MONDAYDSA challenge , Solved 2 question completely and 2 question partially , the left 2 were of graphs which I have not yet studied and was not able to think of an effective structure.
+I soved 3 problems in less than half an hour. while one i solved for 2 hrs, and that asked about how many islands ,I have posted the question picture as well. It attracted me so much that even without any effective plan I thought to work on it . My plan was to make 2 functions one which will change the location to land and other function to check if there are more than 2 surrounding land then to check if those two are internally connected or not . Which I did by using backtracking method. Though due to the simpler approach the program size became massive.And on running the program few cases passed while others didnt due to TLE occured due to recursion in backtracking.I have posted my code in the folder in a bit open spaces with proper readability while originally it was very unreadable and so I added some comments for proper understanding . 
+
+-Learning- 
+Started with Trees today , learned lot of concepts about formulas based on height , min nodes , max nodes , learned ways on how to create Trees such as by queue in loop or by recursion  , then learnt about 4 types of traversal methods in a tree .Also learnt about binary trees.
+
