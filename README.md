@@ -310,3 +310,27 @@ I soved 3 problems in less than half an hour. while one i solved for 2 hrs, and 
 -Learning- 
 Started with Trees today , learned lot of concepts about formulas based on height , min nodes , max nodes , learned ways on how to create Trees such as by queue in loop or by recursion  , then learnt about 4 types of traversal methods in a tree .Also learnt about binary trees.
 
+
+
+### DAY-15] 26|05|2026
+
+-LeetCode-
+
+i)[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+Submission: https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2013562601
+First question on topic Trees, It was easy difficulty based on getting the numbers as per inorder traversal[LNR];
+
+ii)[Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+Submission: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2013610293
+A medium difficulty question ,asking for level order tranversal and storing in the same form in a vector of vector of int . I solved by a while loop .
+
+iii)[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+Submission: https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2013681319
+Solved by the concept of backtracking to go at all nodes and count++ for each level increment.
+
+iv)[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+Submission: https://leetcode.com/problems/balanced-binary-tree/submissions/2013730039
+A question check if the binary tree is balanced or not , I solved it using backtracking
+
+-Learning- 
+Learnt more concepts of trees and some of the development part and also focused a bit on backtracking . Will learn trees for 2-4 more days then begin with the graphs and DP.
