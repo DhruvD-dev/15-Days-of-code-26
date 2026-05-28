@@ -17,7 +17,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Keep pushing your changes every day! 
 
-
+<hr>
 
 
 ### DAY-1] 11|05|2026
@@ -25,76 +25,90 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 -revision- revised a number of concepts of arrays and searches from codehelp by babbar.
 
 -Leetcode-
-i)Find Peak Element:The numbers in the array increased from start upto a certain number and later decreased.To find the highest number using a solution of time complexity O(nlogn). --> Solved it by using binary search but instead of a key , for a element which is greater than its left and right side value.
-problem: https://leetcode.com/problems/find-peak-element/description/
+i)[162:Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+Submission: https://leetcode.com/problems/find-peak-element/submissions/2000274481
+The numbers in the array increased from start upto a certain number and later decreased.To find the highest number using a solution of time complexity O(nlogn). --> Solved it by using binary search but instead of a key , for a element which is greater than its left and right side value.
 
-ii)Find Pivot Index : To find the index of array at which the sum of the left side elements is equal to sum of right side elements.-->Solved it by creating 2 different array one carying sum of right side elements till particular index and vice versa.Total time complexity O(n).
-problem: https://leetcode.com/problems/find-pivot-index/description/
+
+ii)[724: Find Pivot Index ](https://leetcode.com/problems/find-pivot-index/description/)
+Submission: https://leetcode.com/problems/find-pivot-index/submissions/2000366693
+ To find the index of array at which the sum of the left side elements is equal to sum of right side elements.-->Solved it by creating 2 different array one carying sum of right side elements till particular index and vice versa.Total time complexity O(n).
 
 -CodeChef-
 Attended the Monday DSA challenge and successfully completed the first four questions and got score of 400
 Problems: https://www.codechef.com/DSAMONDAY002
 
-
+<hr>
 
 
 ### DAY-2] 12|05|2026
 
 -LeetCode-
-i)Sqrt(x):To find the sqrt of the given integer to just smaller or equal integer without using any built in function. I solved it by using binary search.
-problem: https://leetcode.com/problems/sqrtx/description/
+i)[69 : Sqrt(x) ](https://leetcode.com/problems/sqrtx/description/)
+Submission: https://leetcode.com/problems/sqrtx/submissions/2001063470
+To find the sqrt of the given integer to just smaller or equal integer without using any built in function. I solved it by using binary search.
 
-ii)Search in rotated sorted array:An array was rotated and to find the target element by a solution of complexity O(log n).It took me 2.5 hrs to solve as the tough part was to find the pivot.
-problem: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+ii)[33: Search in rotated sorted array ](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+Submission :https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2001615195 
+An array was rotated and to find the target element by a solution of complexity O(log n).It took me 2.5 hrs to solve as the tough part was to find the pivot.
 
 iii)Color sort: Partially question solved.
 
 -Learning- Sorting techniques- selection , insertion,bubble
 
-
+<hr>
 
 
 ### DAY-3] 13|05|2026
 
 -Leetcode-
-i)sort colors: To sort a given array containing 0,1and 2 as elements without using any sort algorithm or sort function.
+i)[75: sort colors ](https://leetcode.com/problems/sort-colors/description/)
+Submission: https://leetcode.com/problems/sort-colors/submissions/2001970202
+To sort a given array containing 0,1and 2 as elements without using any sort algorithm or sort function.
 I solved it by 2 different approaches both shown in images of day3
-problem: https://leetcode.com/problems/sort-colors/description/
 
-ii)Permutations: https://leetcode.com/problems/permutations/description/
+ii)[46: Permutations ](https://leetcode.com/problems/permutations/description/)
+Submission : https://leetcode.com/problems/permutations/submissions/2002011758
   To print all the next permutations of the given array.
   Solved it in a simpler manner of next permutation of sort and swap .
 
-iii)Permutations 2: http://leetcode.com/problems/permutations-ii/description/
+iii)[47: Permuations II ](http://leetcode.com/problems/permutations-ii/description/)
+Submission: https://leetcode.com/problems/permutations-ii/submissions/2002034613
    To print all the next permutations of the given array even when the numbers can be same.
    Solved it the same way , just a small changes and a bit of conditions for elimination of extra cases.
 
-iv)Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/description/
+iv)[118 : Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/description/)
+Submission : https://leetcode.com/problems/pascals-triangle/submissions/2002120689
     To print the following patter , easy difficulty question.
 
-v)Gas Station: https://leetcode.com/problems/gas-station/description/ 
+v)[134: Gas Station ](https://leetcode.com/problems/gas-station/description/) 
    To find the starting point among the different stations with their cost and fuel array.
    This question seemed easier on first try and i almost did it ,35/40 cases passed and TLE occured , and after realising constraints I got to learn that Brute force was not an option and then for thinking 2-3hr for same question . I came up with nothing . unsolved
 
-
+<hr>
 
 
 ### DAY-4] 14|05|2026
 
 -Leetcode-
-i)Reverse Integer: https://leetcode.com/problems/reverse-integer/description/
+i)[7: Reverse Integer ](https://leetcode.com/problems/reverse-integer/description/)
+Submission:  https://leetcode.com/problems/reverse-integer/submissions/2002879018
 It was to reverese an integer but with numbers going upto the INT_MAX size while maybe more than that , if reversal of number went bigger than that then to return 0 else the reveresed number.
 
-ii)Reverse String: https://leetcode.com/problems/reverse-string/description/
+ii)[344: Reverse String](https://leetcode.com/problems/reverse-string/description/)
+Submission: https://leetcode.com/problems/reverse-string/submissions/2002889708
 Easy question just to reverse string .Completed in 2 min.
 
-iii)Reverse String II: https://leetcode.com/problems/reverse-string-ii/description/
+iii)[541: Reverse String II ](https://leetcode.com/problems/reverse-string-ii/description/)
+Submission: https://leetcode.com/problems/reverse-string-ii/submissions/2002922470
 A better version of the previous problem with rotation only in particular intervals of k while leaving the next k elements untouched.
 
-iv)Remove Outermost Parentheses: https://leetcode.com/problems/remove-outermost-parentheses/description/
+iv)[1021: Remove Outermost Parentheses ](https://leetcode.com/problems/remove-outermost-parentheses/description/)
+Submission: https://leetcode.com/problems/remove-outermost-parentheses/submissions/2002957682
 It looked as in continuation to other problem of valid parenthesis where stack was used , while in this problem we were given the valid parenthesis and goal was to only take out the outer parenethesis of each of its constituents.
 
-v)Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/description/
+v)[151: Reverse Words In a string ](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+Submission: https://leetcode.com/problems/reverse-words-in-a-string/submissions/2003115189
 A medium difficulty question which took me a lot of time ,but it cleared a lot of concepts of string,Such as conversion of a vector into string and vice versa without a loop.
 
 
@@ -102,83 +116,97 @@ A medium difficulty question which took me a lot of time ,but it cleared a lot o
  Learnt today a lot of concepts of strings and algorithms while along with that learnt basic algorithm of all containers in STL and all the algorithms of STL.
 Some of the questions todays solved were from striver's Playlist.
 
-
+<hr>
 
 
 ### DAY-5] 15|05|2026
 
 -Leetcode-
-i)Largest Odd Number In The String: https://leetcode.com/problems/largest-odd-number-in-string/description/
+i)[1903: Largest Odd No. In A string ](https://leetcode.com/problems/largest-odd-number-in-string/description/)
+Submission: https://leetcode.com/problems/largest-odd-number-in-string/submissions/2003740175
 An easy difficulty question of string.
 
-ii)Isomorphic string: https://leetcode.com/problems/isomorphic-strings/description/
+ii)[205: Isomorphic strings ](https://leetcode.com/problems/isomorphic-strings/description/)
+Submission: https://leetcode.com/problems/isomorphic-strings/submissions/2003782280
 To check if one string can be isomorphed into other by some mappings.By the mapping word i got distracted and then completely focused on the way using unordered maps. But due to it , it took more of space and more of time.While it could have been done easily by vectors.
 
-iii)Rotate String: https://leetcode.com/problems/rotate-string/description/
+iii)[796: Rotate string ](https://leetcode.com/problems/rotate-string/description/)
+Submission: https://leetcode.com/problems/rotate-string/submissions/2003808625
 To check if the second string is rotated form of first string.   or
 To check is second string can be made into first string by any rotations.
 
-iv)Valid Anagram: https://leetcode.com/problems/valid-anagram/description/
+iv)[242: Valid Anagram ](https://leetcode.com/problems/valid-anagram/description/)
+Submission: https://leetcode.com/problems/valid-anagram/submissions/2003873912
 To check if the 2 strings are anagram or not.
 
-v)Sort Characters By Frequency:https://leetcode.com/problems/sort-characters-by-frequency/description/ 
+v)[451: Sort character by frequency ](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 spent a lot of time in this question,Tried to go for approches using Hashing but sorting the hashed vector will only sort numbers and i will lose the letters tied with them.Instead , on searching many places , got to learn about lambda function in c++,But didnt use it as i want to solve by my own. Unsolved.
 
-vi)String to Integer(atoi): https://leetcode.com/problems/string-to-integer-atoi/description/
+vi)[8: String to Integers(ATOI)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+Submission: https://leetcode.com/problems/string-to-integer-atoi/submissions/2003947738
 A Medium difficulty question to convert a given string containing letters,numbers,+,-etc.
 Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taking sign of number and last for taking the number.
 
 -learning-
  Lambda function in c++,which is used for customized sorting.
 
-
+<hr>
 
  ### DAY-6] 16|05|2026
 
  -Leetcode-
- i)Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
+ i)[88: Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+ Submission:https://leetcode.com/problems/merge-sorted-array/submissions/2004577272 
  An easy difficulty question.
 
- ii)Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
+ ii)[283: Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) 
+ Submission: https://leetcode.com/problems/move-zeroes/submissions/2004599867
  An array to be kept same ,  just to move the zeroes at the end of it.
 
- iii)Rotate Array: https://leetcode.com/problems/rotate-array/description/
+ iii)[189: Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+ Submission: https://leetcode.com/problems/rotate-array/submissions/2004607533
  To rotate the array by a given k value.
 
- iv)Check if array is sorted and Rotated: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+ iv)[1752: Check if array is sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+ Submission: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2004614637
 
  -Learning-
  Learnt about Sieve to find prime numbers,short way to find GCD,Modullar arthimetics , fast exponentiation and  Euclid's Theorem .
 
  I was not able to do good difficulty questions today ,as I am ill and focused more on rest.
 
-
+<hr>
 
  ### DAY-7] 17|05|2026
 
  -LeetCode-
- i)ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/description/
+ i)[6: ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+ Submission: https://leetcode.com/problems/zigzag-conversion/submissions/2005372121
  A medium difficulty question ,It was a creative question and required manipulation of iterators.
 
- ii)Count and Say: https://leetcode.com/problems/count-and-say/description/
+ ii)[38: Count and Say](https://leetcode.com/problems/count-and-say/description/)
+ Submission: https://leetcode.com/problems/count-and-say/submissions/2005457433
  A interesting and creative medium difficulty problem simply solved by recursion and loops.
  I also posted the solution for this question which was my first post on Leetcode.
 
- iii)Valid Parentheses: https://leetcode.com/problems/valid-parentheses/description/
+ iii)[20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+ Submission: https://leetcode.com/problems/valid-parentheses/submissions/2005475234
  An easy problem of combination of parentheses ,easily solved by properties of stack.
 
- iv)Compare Version Numbers: https://leetcode.com/problems/compare-version-numbers/description/
+ iv)[165: Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
+ Submission: https://leetcode.com/problems/compare-version-numbers/submissions/2005559812
  A good difficulty question that took good time to take all cases into control.
 
- v)Multiply String: https://leetcode.com/problems/multiply-strings/description/
+ v)[43: Multiply String](https://leetcode.com/problems/multiply-strings/description/)
+ Submission: https://leetcode.com/problems/multiply-strings/submissions/2006346503
  My best ever question on strings , it led me too much time to come solve till where i have done,its not yet completed but tommorow it will be done. It was the hardest so far of strings .Unsolved
 
-
+<hr>
 
  ### Day-8] 18|05|2026
 
  -leetcode-
- i)Multiply String: https://leetcode.com/problems/multiply-strings/description/
+ i)43: Multiply String: https://leetcode.com/problems/multiply-strings/description/
  This question todat itself took me nearly 3-4 hours of manipulation to let each test case pass.I may have started for a way which might not be the best solution but i had the feeling that it can be done this way so i kept going and on each error tried to manipulate but for each error there required a huge new block of code to be introduced.  Literally it was the question which took me the most amount of time to solve And it taught me much of bit manipulation. I could have used vector in this but I wanted to do it fairly with string without any other container (Except i have used int at 2 places to mark index as indexes were getting complicated equations so i just stored in int);
  
  -CodeChef-
@@ -187,6 +215,7 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
  -Learning-
  Learnt Merge sort,its applications and drawbacks,though it is not as much clear.
 
+<hr>
 
  ### DAY-9] 19|05|2026
  -Learning- 
@@ -196,42 +225,46 @@ Solved by 3 for loops(not nested) One for ignoring extra 0s ahead , one for taki
 
  -Leetcode-
  Solved some maths quest problems which were easy .
- i)Longest Valid Parenthesis : https://leetcode.com/problems/longest-valid-parentheses/description/
+ i)[Longest Valid Parenthesis](https://leetcode.com/problems/longest-valid-parentheses/description/)
+ Submission: https://leetcode.com/problems/longest-valid-parentheses/submissions/2007502070
  Gave too much time in solving this hard question , could not actually complete it but reached till a point where 173/235 cases pass. 
 
-
+<hr>
 
  ### DAY-10] 20|05|2026
  
  -Leetcode-
- i)Sort an array: https://leetcode.com/problems/sort-an-array/description/
+ i)[912: Sort an array](https://leetcode.com/problems/sort-an-array/description/)
+ Submission: https://leetcode.com/problems/sort-an-array/submissions/2007993632
  Solved first merge sort question .
 
- ii)Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/description/
+ ii)[42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+ Submission: https://leetcode.com/problems/trapping-rain-water/submissions/2008184402
  Solved my first hard question successfully, using the idea to count water till max occurs , then reverse the 2 pointers from opposite side till the max occur and then to calculate the water between two maxes at extremes by a transversal.
 
- iii)[Remove all adjacent duplicates in string :](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+ iii)[1047: Remove all adjacent duplicates in string :](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+ Submission: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/2008206583
  A  question on stack in which in a string if a pair of letter occured then to remove it 
 
  -Learning-
  Got a more clear way to do quick sort  , learnt approach of bactracking using recursion
 
-
+<hr>
 
 ### DAY-11] 21|05|2026
 
 -Leetcode-
-i)Simplify Path: https://leetcode.com/problems/simplify-path/description/
+i)[71: Simplify Path](https://leetcode.com/problems/simplify-path/description/)
+Submission: https://leetcode.com/problems/simplify-path/submissions/2009080873
 A question that was supposed to be solved by stack , I solved it by deque .
 It gave an address of a folder,our task was to simplify that path as per the customised rules mentioned. It was a good difficulty question.
 
-ii)Decode String:https://leetcode.com/problems/decode-string/description/
+ii)[394: Decode String](https://leetcode.com/problems/decode-string/description/)
 Submission :https://leetcode.com/problems/decode-string/submissions/2009123780
-Actually I learnt now that we can put submission link as well , and so on from now I will be sharing the submission link as well.
 This question was a good stack question of decoding a string.
 With this question , my 50 questions have been completed.
 
-iii)Pow(x,n): https://leetcode.com/problems/powx-n/description/
+iii)[50: Pow(x,n)](https://leetcode.com/problems/powx-n/description/)
 Submission: https://leetcode.com/problems/powx-n/submissions/2009286349
 A submission wasting question , i need to build so many if else ,which i came to know about when my submission failed.This question wasted so many submissions.
 
@@ -239,31 +272,31 @@ A submission wasting question , i need to build so many if else ,which i came to
 Got more comfortable with queue.
 I was not able to learn or practice more today but I will compensate this on other days .
 
-
+<hr>
 
 ### DAY-12] 22|05|2026
 
 -Leetcode-
-i)Implement Queue using stacks: https://leetcode.com/problems/implement-queue-using-stacks/description/
+i)[232: Implement Queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 Submission: https://leetcode.com/problems/implement-queue-using-stacks/submissions/2009986983
 The question itself is clear from its name , I created 2 stacks which used to transfer items into one another for pop and push. Today I focused more on developing Queue/Deque and so I am trying questions related to it .
 
-ii)Implement Stack using Queue:https://leetcode.com/problems/implement-stack-using-queues/description/
+ii)[225: Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/description/)
 Submission: https://leetcode.com/problems/implement-stack-using-queues/submissions/2009994898
 Near to same question as above but with different approach and working.
 
-iii)Permutation Sequence: https://leetcode.com/problems/permutation-sequence/description/
+iii)[60: Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
 Submission:https://leetcode.com/problems/permutation-sequence/submissions/2010150935
 A hard difficulty question in which it was asked to find permutation of the given number string , the easier part of it contains an vector. I solved it by simple looping methods and got a good space complexity but a bad time complexity . While another possible method i can think of is using backtracking as it was a string another permutation could easily been done by recursion.
 
-iv)[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+iv)[28: Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 Submission: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2010166841
 An easy difficulty question , but use of different function of string that is substr which helps to create a substring.
 
 -Learning- 
 Done with 45 videos of CodeHelp, i.e. Till recursion , stack and queue , Later will begin with linked lists and then to Trees.
 
-
+<hr>
 
 ### Leave ----->
 
@@ -274,29 +307,29 @@ Today I was not able to do much as I was busy regarding many things and was not 
 ### DAY-13] 24|05|2026
 
 -Leetcode-
-i)[Remove Nth Node from the end of the list ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+i)[19: Remove Nth Node from the end of the list ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 Submission: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2011523744
 My first question on the topic Linked list .It was a medium difficulty question but seemed easy after studing from codehelp.
 
-ii)[Rotate List](https://leetcode.com/problems/rotate-list/description/)
+ii)[61: Rotate List](https://leetcode.com/problems/rotate-list/description/)
 Submission: https://leetcode.com/problems/rotate-list/submissions/2011548251
 Another medium difficulty question on the linked list topic.
 
-iii)[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+iii)[25: Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 Submission: https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2011668879
 A hard difficulty question which cleared a lot of concepts of linked lists and now I am getting confident with linked lists.This questionw was about to rotate the linked list at every k group of elements.
 
-iv)[Design circular queue](https://leetcode.com/problems/design-circular-queue/description/)
+iv)[622: Design circular queue](https://leetcode.com/problems/design-circular-queue/description/)
 Submission: https://leetcode.com/problems/design-circular-queue/submissions/2011729881
 It asks to create and develop the class of a circular queue , having many functions. I solved it by Linked Lists method , making it circular. Posting the picture of only some functions as it is long code and not come in single picture.
 
-v)[Partition List](https://leetcode.com/problems/partition-list/description/)
+v)[86: Partition List](https://leetcode.com/problems/partition-list/description/)
 Submission: https://leetcode.com/problems/partition-list/submissions/2011768936
 Another medium difficulty linked list question that required to make an partition.
 
 -learning- Got linked lists done today , learned lot of concepts .
 
-***
+<hr>
 
 ### DAY-14] 25|05|2026
 
@@ -310,27 +343,29 @@ I soved 3 problems in less than half an hour. while one i solved for 2 hrs, and 
 -Learning- 
 Started with Trees today , learned lot of concepts about formulas based on height , min nodes , max nodes , learned ways on how to create Trees such as by queue in loop or by recursion  , then learnt about 4 types of traversal methods in a tree .Also learnt about binary trees.
 
----
+<hr>
 
 ### DAY-15] 26|05|2026
 
 -LeetCode-
 
-i)[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+i)[94: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 Submission: https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2013562601
 First question on topic Trees, It was easy difficulty based on getting the numbers as per inorder traversal[LNR];
 
-ii)[Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+ii)[102: Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 Submission: https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2013610293
 A medium difficulty question ,asking for level order tranversal and storing in the same form in a vector of vector of int . I solved by a while loop .
 
-iii)[Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+iii)[111: Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 Submission: https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2013681319
 Solved by the concept of backtracking to go at all nodes and count++ for each level increment.
 
-iv)[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+iv)[110: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 Submission: https://leetcode.com/problems/balanced-binary-tree/submissions/2013730039
 A question check if the binary tree is balanced or not , I solved it using backtracking
 
 -Learning- 
 Learnt more concepts of trees and some of the development part and also focused a bit on backtracking . Will learn trees for 2-4 more days then begin with the graphs and DP.
+
+<hr>
