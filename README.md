@@ -369,3 +369,26 @@ A question check if the binary tree is balanced or not , I solved it using backt
 Learnt more concepts of trees and some of the development part and also focused a bit on backtracking . Will learn trees for 2-4 more days then begin with the graphs and DP.
 
 <hr>
+
+<h2> Second Phase Of 15 Days Of Code </h2>
+
+<h3>Day 1 : 15 | 06 | 2026 </h3>
+
+<h5>LeetCode</h5>
+
+i)[2095 : Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) <br>
+Submission: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2034174813 <br>
+The regular question of LeetCode , of medium difficulty which required to delete the next node to middle node in even case while deleting the middle node in odd case .
+<br>
+
+ii)[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
+Submission: https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2034097215 <br>
+A hard difficulty question which had a vector of heights of bars , while task was to find the maximum area. Intuition was that this question was close to container with maxm water and trapping rain water which used 2 pointers single traversal respectively .While this question was optimally solved by the trick of MONOSTACK , push the height into the stack untill its increasing , when a smaller height comes pop out untill its more small.
+<br>
+<h5>CodeChef:</h5>
+Attended the MONDAYDSA competition and successfully completed 4 questions in 2 hours could not reach to next question which was very famous (N-QUEENS) .
+The questions were based on arrays and monostack.
+<br>
+<h5>Learning </h5>
+Currently learning AVL trees about its rotations.
+Also I am learning from 2 different places , The coder army helps to build the solving ability of trees and intuitions , while ABDUL BARI helps to understand the topic from the root and very detailed. 
