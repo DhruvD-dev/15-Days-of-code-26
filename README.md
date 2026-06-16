@@ -392,3 +392,32 @@ The questions were based on arrays and monostack.
 <h5>Learning </h5>
 Currently learning AVL trees about its rotations.
 Also I am learning from 2 different places , The coder army helps to build the solving ability of trees and intuitions , while ABDUL BARI helps to understand the topic from the root and very detailed. 
+<hr>
+
+<h3>Day 2 : 16 | 6 | 26 </h3>
+
+<h5>LeetCode</h5>
+
+i)[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)<br>
+submission: https://leetcode.com/problems/valid-mountain-array/submissions/2035237309 <br>
+An easy difficulty question , done as a step for revision of array topic.<br>
+
+ii)[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)<br>
+Submission: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/2035256557 <br>
+An easy question , done as a step for revision of queue.<br>
+
+iii)[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)<br>
+Submission : https://leetcode.com/problems/battleships-in-a-board/submissions/2035433750 <br>
+A medium difficulty question , intuition was to solve it by DFS , and by the following DFS method , time beat was 100% .<br>
+
+iv)[3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/)<br>
+Submission : https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2035447692 <br>
+This was the todays question of Leetcode based on string , mentioned under medium category but a very simple question.<br>
+
+v)[62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)<br>
+Submission: https://leetcode.com/problems/unique-paths/submissions/2035533021 <br>
+A question which seemed as to be done by DFS , but on doing some turns , got a trick or can be said a pattern was following due to which it was possible to do into O(m*n); <br>
+
+<h5>Learning </h5>
+Today I completed with AVL trees and have started with Heap.
+<hr>
