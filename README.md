@@ -421,3 +421,18 @@ A question which seemed as to be done by DFS , but on doing some turns , got a t
 <h5>Learning </h5>
 Today I completed with AVL trees and have started with Heap.
 <hr>
+
+<h3>Day 3 : 17 | 06 | 26 </h3>
+
+<h5>Learning</h5>
+Learned basic concepts of Heap , max heap , min heap , heap sort , its implementations and heapify method.<br>
+
+<h5>CodeChef</h5>
+Attended the starters contest today , was able to do only 3 questions on easier side.. while the rest four were completely based on math topic.<br>
+
+<h5>LeetCode</h5>
+Tried to solve todays regular question which was string with operations 2 , hard difficulty ,intuition was definitely to not make a string as it can lead to MLE or TLE due to reversing complexity .So tried to maintain a counter and records of string at various steps . Though unsolved.<br>
+
+Also solved 1-2 basic heap questions of easy difficulty.<br>
+
+<hr>
