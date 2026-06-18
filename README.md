@@ -436,3 +436,30 @@ Tried to solve todays regular question which was string with operations 2 , hard
 Also solved 1-2 basic heap questions of easy difficulty.<br>
 
 <hr>
+
+<h3>Day -4 : 18 | 06 | 26 </h3>
+
+<h5>LeetCode</h5>
+
+i)[1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)<br>
+Submission: https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2037228220 <br>
+It was the todays question of LeetCode which I solved by basic maths and intuitions about calculations of angle while pasting the hour.<br>
+
+ii)[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)<br>
+Submission: https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2037535017 <br>
+A medium difficulty question based on either constructing a max heap and running for k times , or making a min heap of size k , I didnt use priority_queue , while manually created it using insert and delete function .<br>
+
+iii)[355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)<br>
+Submission : https://leetcode.com/problems/design-twitter/submissions/2037669925 <br>
+One of the best questions i have ever solved , as It included well use of STL , one should have proper knowledge of advantage of using mixed containers such as unordered map of int and unordered set etc.<br>
+
+iv)[1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)<br>
+Submission :   https://leetcode.com/problems/grumpy-bookstore-owner/submissions/2037830285 <br>
+This Question led to a confusion at first view that i need to place the window of size minuted at a place so as to get maximum consecutive 0 in grumpy (as I thought that only consecutive 0 points will count )Though later realised that All 0 will be counted , i only had to pick a window where 1s in grumpy have the maxm value. So it was a question of fixed sliding window.<br>
+
+v)[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)<br>
+Submission : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2037854402 <br>
+I did not originally solved this question , I just solved it as a revision for BST and I knew a basic idea of the solution beforehand due to going for solution in for same ancestor question but for binary tree.<br>
+
+<h5>What you learnt ? </h5>
+I figured out that I am facing problem in heap , not due to its working and mechanism but I am finding hard to apply on question or am not able to develop the intuition that here heap will be applied as The twitter question was supposed to be solved by heap but i solved it without using that losing time complexity. 
