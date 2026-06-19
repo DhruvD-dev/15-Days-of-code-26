@@ -463,3 +463,16 @@ I did not originally solved this question , I just solved it as a revision for B
 
 <h5>What you learnt ? </h5>
 I figured out that I am facing problem in heap , not due to its working and mechanism but I am finding hard to apply on question or am not able to develop the intuition that here heap will be applied as The twitter question was supposed to be solved by heap but i solved it without using that losing time complexity. 
+<hr>
+
+<h3> Day-5 : 19 | 06| 26 </h3>
+
+<h5>LeetCode</h5>
+
+i)Solved todays regular question of LeetCode which was of easy difficulty.
+ii) Tried more than 4 questions in Heap category but was unable to solve any , as If I was not able to get intuition on application of heap.
+I will still need a lot of time to get better in heap.<br>
+
+<h5 >Learning </h5>
+Saw lectures of heap solving question so as to develop intuition and how to apply heap on different question.<br>
+<hr>
