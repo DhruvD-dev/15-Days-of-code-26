@@ -476,3 +476,29 @@ I will still need a lot of time to get better in heap.<br>
 <h5 >Learning </h5>
 Saw lectures of heap solving question so as to develop intuition and how to apply heap on different question.<br>
 <hr>
+
+<h3>Day-6 : 21 | 06 | 26 </h3>
+
+<h5>LeetCode</h5>
+
+Attended todays weekly contest and solved 2 questions successfully  and solved 1 hard question perfect logically but failed to submit in the contest due to TLE.
+<br>
+i)[3968. Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/description/)<br>
+Submission: https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/submissions/2040385022 <br>
+A medium difficulty question in the weekly contest and i solved it by simply creating a matrix following the same pattern of first row and last column with '.' . <br>
+
+ii)[3969. Valid Subarrays With Matching Sum Digits I](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/description/)<br>
+Submission: https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/submissions/2040457602 <br>
+This was a good difficulty question and I attempted it by using prefix sum with sliding window.<br>
+
+iii)[81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)<br>
+Submission: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2041078408 <br>
+This question was supposed to be done by binary search so as to reduce the complexity.
+
+iv)[1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/)<br>
+Submission: https://leetcode.com/problems/maximum-building-height/submissions/2040247382 <br>
+This was the POTD of date 20 but i solved it on date 21 (as it stays as POTD till morning 5:30 or UTC).It was a hard difficulty question and was highly dependent not on concepts but on geometrical calculations and the creativity of imagination. I solved it twice once with priority queue and once with vector with better time complexity in vector solution.
+<br>
+
+<h5>I was not able to do much on 20|06|26 which was supposed to be day 6, I only attended biweekly contest of leetcode but was able to successfully attempt only 1 question and else I only solved one question whole day (POTD) which I mentioned above on next day as it was solved late. So as the day didnt look much efficient so I count it as leave and Considered today as day 6 <br>
+<hr>
