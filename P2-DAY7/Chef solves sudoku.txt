@@ -1,0 +1,283 @@
+class Solution {
+public:
+void solve(vector<vector<char>>& trials,vector<vector<char>>& ans,int& i,int& j){
+    if(trials[i][j]!='.'&&i==8&&j==8){
+        ans=trials;
+    }else if(trials[i][j]!='.'&&j==8){
+        i++;
+        j=0;
+        solve(trials,ans,i,j);
+        if(ans==trials)return;
+        i--;
+        j=8;
+    }else if(trials[i][j]!='.'){
+        j++;
+        solve(trials,ans,i,j);
+        if(ans==trials)return;
+        j--;
+    }else{
+        set<int> p;
+        for(int a=1;a<=10;a++){
+            p.insert(a);
+        }
+        for(int a=0;a<9;a++){
+            p.erase(trials[i][a]-'0');
+            p.erase(trials[a][j]-'0');
+        }
+
+        if(i<3&&j<3){
+            for(int a =0;a<3;a++){
+                for(int b=0;b<3;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<6&&j<3){
+            for(int a =3;a<6;a++){
+                for(int b=0;b<3;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<9&&j<3){
+            for(int a =6;a<9;a++){
+                for(int b=0;b<3;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<3&&j<6){
+            for(int a =0;a<3;a++){
+                for(int b=3;b<6;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<6&&j<6){
+            for(int a =3;a<6;a++){
+                for(int b=3;b<6;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<9&&j<6){
+            for(int a =6;a<9;a++){
+                for(int b=3;b<6;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<3&&j<9){
+            for(int a =0;a<3;a++){
+                for(int b=6;b<9;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<6&&j<9){
+            for(int a =3;a<6;a++){
+                for(int b=6;b<9;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }else if(i<9&&j<9){
+            for(int a =6;a<9;a++){
+                for(int b=6;b<9;b++){
+                    p.erase(trials[a][b]-'0');
+                }
+            }
+        }
+
+        auto it=p.begin();
+        if(*it==1){
+            trials[i][j]='1';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==2){
+            trials[i][j]='2';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==3){
+            trials[i][j]='3';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==4){
+            trials[i][j]='4';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==5){
+            trials[i][j]='5';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==6){
+            trials[i][j]='6';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==7){
+            trials[i][j]='7';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==8){
+            trials[i][j]='8';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+        if(*it==9){
+            trials[i][j]='9';
+            if(i==8&&j==8){
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+            }else if(j==8){
+                i++;
+                j=0;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                i--;
+                j=8;
+            }else{
+                j++;
+                solve(trials,ans,i,j);
+                if(ans==trials)return;
+                j--;
+            }
+            trials[i][j]='.';
+            it++;
+        }
+    }
+}
+    void solvePuzzle(vector<vector<char>> &sudokuBoard) {
+        vector<vector<char>> trials=sudokuBoard;
+        vector<vector<char>> ans;
+        int i=0,j=0;
+        solve(trials,ans,i,j);
+        sudokuBoard=ans;
+    }
+};

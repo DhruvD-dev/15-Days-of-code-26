@@ -1,0 +1,79 @@
+// Node structure used:
+// struct Node {
+//     int val;
+//     Node* next;
+//     Node(int x) : val(x), next(NULL) {}
+// };
+Node* reverse(Node* head){
+    Node* temp=head;
+    Node* temp2=head->next;
+    head->next=NULL;
+    
+    while(temp2!=NULL){
+        temp=temp2;
+        temp2=temp2->next;
+        temp->next=head;
+        head=temp;
+    }
+    return head;
+}
+Node* midl(Node* head){
+    if(head->next==NULL){
+        return head;
+    }
+    Node* slow=head;
+    Node* fast=head->next;
+    int count=0;
+    while(fast->next!=NULL&&fast->next->next!=NULL){
+        fast=fast->next->next;
+        slow=slow->next;
+        count++;
+    }
+    return slow;
+}
+int midl2(Node* head){
+    if(head->next==NULL){
+    return 0;
+    }
+    Node* slow=head;
+    Node* fast=head->next;
+    int count=0;
+    while(fast->next!=NULL&&fast->next->next!=NULL){
+        fast=fast->next->next;
+        slow=slow->next;
+        count++;
+    }
+    if(fast->next==NULL){
+        count=2;
+    }else{
+        count=1;
+    }
+    return count;
+}
+bool isPalindrome(Node* head) {
+    if(head->next==NULL)return true;
+    bool ans=true;
+    Node* mid=midl(head);
+    int count=midl2(head);
+    Node* left;
+    Node* right;
+     if(count%2){
+        right=mid->next->next;
+        mid->next=NULL;
+        left=head;
+    }else{
+        right=mid->next;
+        mid->next=NULL;
+        left=head;
+    }
+    right=reverse(right);
+    while(left!=NULL){
+        if(left->val!=right->val){
+            ans=false;
+            break;
+        }
+        left=left->next;
+        right=right->next;
+    }
+    return ans;
+}

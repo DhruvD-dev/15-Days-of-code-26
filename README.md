@@ -502,3 +502,26 @@ This was the POTD of date 20 but i solved it on date 21 (as it stays as POTD til
 
 <h5>I was not able to do much on 20|06|26 which was supposed to be day 6, I only attended biweekly contest of leetcode but was able to successfully attempt only 1 question and else I only solved one question whole day (POTD) which I mentioned above on next day as it was solved late. So as the day didnt look much efficient so I count it as leave and Considered today as day 6 <br>
 <hr>
+
+<h3>Day -7 : 22 | 06 | 26 </h3>
+
+<h5>LeetCode</h5>
+
+i)[text](https://leetcode.com/problems/maximum-number-of-balloons/description/)1189. Maximum Number of Balloons<br>
+Submission: https://leetcode.com/problems/maximum-number-of-balloons/submissions/2041757726 <br>
+POTD of leetcode , easy difficulty question <br>
+
+ii) Attended a number theory question called mirror reflection, but left unsolved .<br>
+
+<h5>CodeChef </h5>
+Attended todays codechef contest , It was today delayed and also its server were facing heavy load today so question for submission were taking more than 7-10 minutes.I was able to do 4 questions ( 2 easy and 2 medium ) and also was able to attend the hard question which I did correct  but due to long submission time was not able to submit . 
+
+Medium difficulty questions were :
+1)check if linked list is palindrome <br>
+2)Subsequence sum K <br>
+
+Hard difficulty attended 
+1)Chef Solves sudoku
+
+DSA rating was 1534 at last , but it codechef shows 1512 only due to lag today.<br>
+<hr>
