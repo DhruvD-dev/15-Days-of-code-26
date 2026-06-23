@@ -525,3 +525,25 @@ Hard difficulty attended
 
 DSA rating was 1534 at last , but it codechef shows 1512 only due to lag today.<br>
 <hr>
+
+<h3> Day-8 : 23 | 06 | 26</h3>
+
+<h5>learning</h5>
+I revised all the sorting algorithms for arrays and linked list together such as :<br>
+i)Bubble sort <br>
+ii)insertion sort <br>
+iii)selection sort <br>
+iv)quick sort <br>
+v)merge sort <br>
+vi)heap sort<br>
+
+<h5>LeetCode</h5>
+
+i)[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)<br>
+Submission: https://leetcode.com/problems/valid-sudoku/submissions/2043817453<br>
+A good difficulty question which was based on checking if sudoku was correct or not.
+
+ii)[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)<br>
+Unsolved:
+This question was almost solved as 7/8 testcases passed and one remained due to TLE , I will focus more on optimization now so as to reduce time.<br>
+<hr>
