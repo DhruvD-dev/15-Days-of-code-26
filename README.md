@@ -547,3 +547,16 @@ ii)[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
 Unsolved:
 This question was almost solved as 7/8 testcases passed and one remained due to TLE , I will focus more on optimization now so as to reduce time.<br>
 <hr>
+
+<h3>Day-9 : 24 | 06 | 26 </h3>
+
+<h5>LeetCode</h5>
+i)Tried that sudoku solve again to optimize it and even made it small , but was not successful to optimize enough for last case to pass.<br>
+
+ii)[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)<br>
+Submission: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/2044993236 <br>
+A famous question from heap.<br>
+
+<h5>CodeChef</h5>
+Attended the starters contest today , and was able to complete 4 questions in less than 40 minutes.Later question didnt work.
+<hr>
