@@ -560,3 +560,26 @@ A famous question from heap.<br>
 <h5>CodeChef</h5>
 Attended the starters contest today , and was able to complete 4 questions in less than 40 minutes.Later question didnt work.
 <hr>
+
+<h3>Day 10 - 25 | 06 | 26 </h3>
+
+<h5>Learning </h5>
+Today I completed with all the other sorting techniques remained<br>
+ -Shell Sort<br>
+ -Bin/Bucket Sort <br>
+ -Radix Sort <br>
+ -Count Sort <br>
+ Count and bin work on same principal but difference is , bin sort stores linked lists while count stores hashing of the numbers at particular index.<br>
+ Radix sort is an interesting mechanism of comparing only a particular digit <br>
+ While Shell sort is just an optimised way of doing insertion sort.<br>
+
+ <h5>LeetCode</h5>
+ i) [274. H-Index](https://leetcode.com/problems/h-index/description/)<br>
+ Submission: https://leetcode.com/problems/h-index/submissions/2046124544 <br>
+ A question based on count sort.<br>
+
+ ii)[1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)<br>
+ Submission:https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2046167779 <br>
+ Another question of Count sort.<br>
+
+ <hr>
