@@ -583,3 +583,23 @@ Today I completed with all the other sorting techniques remained<br>
  Another question of Count sort.<br>
 
  <hr>
+
+ <h3>Day 11 : 26 | 06 | 26 </h3>
+ 
+ <h5>LeetCode</h5>
+
+ i)[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
+ Submission: https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2046556959 <br >
+ A hard difficulty question based on finding median of two sorted array , simply solved single traversal till the middle of their sum of sizes in sorted order.<br>
+
+ ii)[912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)<br>
+ Submission: https://leetcode.com/problems/sort-an-array/submissions/2046904148 <br>
+ This question was earlier submitted by heap sort and this time I submitted using Radix sort also I learnt to manage negative numbers in radix sort just by increasing size of container used. <br>
+
+ [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)<br>
+ Submission : https://leetcode.com/problems/maximum-gap/submissions/2046930450 <br>
+ I solved using radix sort , though didnt achieve good time or space complexity in compete.<br>
+
+ <h5>Learning </h5>
+ Studied more about hash tables such as techniques of closed and open hashing using chaining and linear probing and quadratic probing. Started with graphs , learnt about the terminologies used and matrix representations.<br>
+ <hr>
