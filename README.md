@@ -603,3 +603,32 @@ Today I completed with all the other sorting techniques remained<br>
  <h5>Learning </h5>
  Studied more about hash tables such as techniques of closed and open hashing using chaining and linear probing and quadratic probing. Started with graphs , learnt about the terminologies used and matrix representations.<br>
  <hr>
+
+ <h3>Day 12 : 28 | 06 | 26 </h3>
+
+ <h5>LeetCode </h5>
+ Attended the weekly contest of leetcode , completed with 3 problems out of 4 but was able to submit only 2 as the last problem completed just after 1-2 min later of the ending of the contest. Got a rank of 11k/38k. <br>
+ Problems :<br>
+ i)[3974. Maximum Total Sum of K Selected Elements ](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/description/)<br>
+ Submission: https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/submissions/2048409290 <br>
+ Simply solved by sorting the elements of the array and then by reverse traversal multiplying by mul until it becomes 0.<br>
+
+ ii)[3975. Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/description/)<br>
+ Submission:https://leetcode.com/problems/filter-occupied-intervals/submissions/2048455675 <br>
+ It was a good difficulty question , I solved it by first sorting the vector of matrix of time on the basis of start time , and then merging all time slots by comparison of start and end time of consecutive slots. Later I just checked about case of the time slot if indulging with freestart or freeend and customised accordingly.
+
+ iii)[1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/)<br>
+ Submission: https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/submissions/2049255556 <br>
+ It was todays POTD  , a very simple question solved it by manipulating the sorted array.<br>
+
+ <h5>Learning </h5>
+ Completed following topics in graphs :<br>
+ <ul>
+ <li>BFS</li>
+ <li>DFS</li>
+ <li>Representations of graph</li>
+ <li>Lists and matrix of graph</li>
+ </ul>
+
+ <br>
+ <hr>
