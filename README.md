@@ -632,3 +632,23 @@ Today I completed with all the other sorting techniques remained<br>
 
  <br>
  <hr>
+
+<h3>Day 13 : 29 | 06 | 26 </h3>
+
+<h5>LeetCode</h5>
+
+i)[449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)<br>
+Submission: https://leetcode.com/problems/serialize-and-deserialize-bst/submissions/2050467808 <br>
+A good question of BST based on serialising and deseriaising the tree by string.<br>
+
+ii)[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)<br>
+Submission: https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/2050398186 <br>
+A question that was intended to be solved using queue  , it was more of a pattern recognisation.<br>
+
+<h5>CodeChef</h5>
+Attended the MONDAYDSA contest , completely solved 3 questions , partially sovled 2 question , so total of 5/6 attempted. total score 351 , rank 1082<br>
+
+<h5>Learning</h5>
+Saw some ways to solve graph question from striver videos , to develop intuition and how to approach graph questions.
+<br>
+<hr>
