@@ -652,3 +652,20 @@ Attended the MONDAYDSA contest , completely solved 3 questions , partially sovle
 Saw some ways to solve graph question from striver videos , to develop intuition and how to approach graph questions.
 <br>
 <hr>
+
+<h3> Day 14 - 30 | 06 | 26 </h3>
+
+<h5>LeetCode: </h5>
+
+i)[200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)<br>
+Submission: https://leetcode.com/problems/number-of-islands/submissions/2051385874 <br>
+
+ii)[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)<br>
+Submission: https://leetcode.com/problems/surrounded-regions/submissions/2051520927 <br>
+
+<h5>CodeForces</h5>
+Attended the div 3 contest and it was my first contest on codeforces so had hard time adjusting with submissions and understanding the working . I was able to complete only the A stage problem only . <br>
+
+<h5> Learning </h5>
+Saw more problem solving lectures of striver. <br>
+<hr>
