@@ -668,4 +668,26 @@ Attended the div 3 contest and it was my first contest on codeforces so had hard
 
 <h5> Learning </h5>
 Saw more problem solving lectures of striver. <br>
-<hr>
+<hr>  
+
+<h3>Day 15 :  01 | 07 | 26 </h3>
+
+<h5>LeetCode</h5>
+i)[2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2026-07-01)<br>
+I tried today's POTD , which seemed to be easily solved by BFS by queue and then DFS , but tried for so long , and later on getting some idea from outside that here BFS + heap was supposed to be used, I left it for some later time when I will naturally solve by instinct.<br>
+
+ii)[3286. Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=daily-question&envId=2026-07-02)<br>
+Submission: https://leetcode.com/problems/find-a-safe-walk-through-a-grid/submissions/2053636441 <br>
+First solved it by DFS as it looked to try each path but TLE occured then changed the idea to use BFS to store the health at each box , and then compute if last cell has still health left or not.   <br>
+
+<h5>CodeChef</h5>
+Attended the starters contest but was not able to perform good as my health was not good whole day and worsened at time of contest so was able to attempt only 3 basic questions which led to decrease in rating.<br>
+
+<h5>Learning</h5>
+Studied from lectures of striver graph theory  and learnt about <br>
+<ul>
+   <li>How to find loop in undirected graph using BFS </li>
+   <li>How to find loop in undirected graph using DFS </li>
+   <li>How to find loop in directed graph </li>
+</ul> <br>
+<hr>  
